@@ -2,9 +2,13 @@
 layout: default
 ---
 
-<center>Welcome to my personal website.</center>
 
-This space is very much a work in progress and will be updated regualary as my knowledge of development grows.
+
+
+
+<center><h3>Welcome to my personal website.</h3></center>
+
+<center><h4>This space is very much a work in progress and will be updated regualary as my knowledge of development grows.</h4></center>
 
 <!--
 Text can be **bold**, _italic_, or ~~strikethrough~~. 
