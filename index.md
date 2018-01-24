@@ -6,9 +6,9 @@ layout: default
 
 ##### This space is a placeholder and will be updated regularly as my knowledge of development grows.
 
-* * *
-
 While my website is under construction, please feel free to look over my information, presented in timeless and effiecient markdown format.
+
+* * *
 
 ### Background
 
@@ -20,9 +20,32 @@ When I am not at work, I am learning to code, spending time with my wife and two
 
 ### Skills
 
+| Languages    | Frameworks        | Tools       | Design |
+|:-------------|:------------------|:------------|:-------|
+| Python       | Jekyll            | Git/Github  |        |
+| HTML         |                   |             |        |
+| CSS          |                   |             |        |
+| JavaScript   |                   |             |        |
+| jQuery       |                   |             |        |
+| Ruby/Rails   |                   |             |        |
+
 ### Experience
 
+Tier 5 Labs
+
+Michael's Arts and Crafts
+
+Grace Analytical Lab
+
+Lowe's Home Improvement
+
+Dupont Pioneer
+
 ### Projects
+
+* Personal website
+* Web application for Blizzard game
+* Mbbile application for home use
 
 ### My Story
 
