@@ -2,15 +2,14 @@
 layout: default
 ---
 
-
-
-
-
 <center><h3>Welcome to my personal website.</h3></center>
 
-<center><h4>This space is very much a work in progress and will be updated regualary as my knowledge of development grows.</h4></center>
+<center><h6>This space is a placeholder and will be updated regularly as my knowledge of development grows.</h6></center>
 
-<!--
+While my website is under construction, please feel free to look over my information,
+
+presented in timeless and effiecient markdown format.
+
 Text can be **bold**, _italic_, or ~~strikethrough~~. 
 
 [Link to another page](another-page).
@@ -130,4 +129,3 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
--->
