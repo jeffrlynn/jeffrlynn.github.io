@@ -31,15 +31,16 @@ When I am not at work, I am learning to code, spending time with my wife and two
 
 ### Experience
 
-Tier 5 Labs
-
-Michael's Arts and Crafts
-
-Grace Analytical Lab
-
-Lowe's Home Improvement
-
-Dupont Pioneer
+- Tier 5 Labs
+  - 2015 - Present
+- Michael's Arts and Crafts
+  - 2014 - 2015
+- Grace Analytical Lab
+  - 2013 - 2014
+- Lowe's Home Improvement
+  - 2013 - 2013
+- Dupont Pioneer
+  - 2012 - 2013
 
 ### Projects
 
