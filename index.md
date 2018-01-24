@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to my personal website.
+* * *
 
 ##### This space is a placeholder and will be updated regularly as my knowledge of development grows.
 
