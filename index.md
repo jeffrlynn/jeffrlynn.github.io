@@ -2,7 +2,12 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<center>Welcome to my personal website.</center>
+
+This space is very much a work in progress and will be updated regualary as my knowledge of development grows.
+
+<!--
+Text can be **bold**, _italic_, or ~~strikethrough~~. 
 
 [Link to another page](another-page).
 
@@ -121,3 +126,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
