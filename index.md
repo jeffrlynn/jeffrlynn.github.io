@@ -2,130 +2,36 @@
 layout: default
 ---
 
-<center><h3>Welcome to my personal website.</h3></center>
+## Welcome to my personal website.
 
-<center><h6>This space is a placeholder and will be updated regularly as my knowledge of development grows.</h6></center>
-
-While my website is under construction, please feel free to look over my information,
-
-presented in timeless and effiecient markdown format.
-
-Text can be **bold**, _italic_, or ~~strikethrough~~. 
-
-[Link to another page](another-page).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# [](#header-1)Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## [](#header-2)Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+##### This space is a placeholder and will be updated regularly as my knowledge of development grows.
 
 * * *
 
-### Here is an unordered list:
+While my website is under construction, please feel free to look over my information, presented in timeless and effiecient markdown format.
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+### Background
 
-### And an ordered list:
+I am a full-time Chemical Laboratory Manager, and part-time software developer.
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+After several years in the fields of physics, chemistry, and biology, I have learned enough to know that I needed to change careers. My greatest joyss as a laboratory manager have been the times when I solve a problem, fix an instrument, or create something that increases effieciency. In pursuit of that joy, I aspire to become an accomplished software developer.
 
-### And a nested list:
+When I am not at work, I am learning to code, spending time with my wife and two cats, or playing games with my friends.
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+### Skills
 
-### Small image
+### Experience
 
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+### Projects
 
-### Large image
+### My Story
 
-![](https://guides.github.com/activities/hello-world/branching.png)
+I began my education/career journey as a student of physics and biology at a community college. This choice took me down a path that allowed me to learn alongside aspiring mechanical and electrical engineers, as we worked our way through three levels of calculus, as well as calculus-based physics: mechanics. During this foray into the engineering world, I decided that I would rather focus on environmental chemistry. This path deviated greatly from the engineering world I once knew. My advisor (who happened to be my organic chemistry professor) told me that I wouldn't need the calculus-based physics: electricity and magnetism course in order to transfer into an environmental chemistry program. This advice ended up being false. During my first semester after transferring to the University of Illinois at Urbana-Champaign, I was required to take the calculus-based E&M, as well as differential equations.
 
+That first semester at UIUC was ... difficult, to say the least. My advisor strongly suggested that I drop a couple classes, so that I would have a normal course load. I assured my advisor that I would be okay and forged ahead. It was a rough road, but I quickly learned where to get help when I needed it. During my time at UIUC, I found that I didn't really enjoy chemistry, so I switched my major to biology and took summer classes to ensure that I graduated on time. I ended up earning my Bachelor of Science in Integrative Biology.
 
-### Definition lists can be used with HTML syntax.
+I took my degree and used it to land an internship with Dupont Pioneer, researching soybeans for the summer and fall. By the time I was out of school, I had just missed planting season. Luckily I hadn't missed any of the _fun_ stuff. I spent most of the summer crawling through soybean fields, counting bean sprouts to collect data. The part I **actually** enjoyed though, was troubleshooting the data collection software and piloting combine-harvester, which resembled something out of a Dr. Seuss book.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+When the internship ended, I got married and found my way to Chicago, where I started work as a Laboratory Technician. I started with Tier 5 Labs in 2015, worked my way up to Laboratory Manager and moved with the company to Indianapolis. I have learned a lot during my time with the company; most importantly, what I want to do for a career. My passion does not lie in the specialty gas industry. I spend my time after work learning to code and hope to break into a career as a software developer soon.
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+### Links
